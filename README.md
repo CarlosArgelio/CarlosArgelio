@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on project E-commerce
+- 🔭 I’m currently working on project Guacamaya-Airlines, search my repository
 
 # My Skills
 
